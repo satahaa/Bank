@@ -14,8 +14,6 @@ int main()
     cout << "Exited!\n";
     return 0;
 }
-
-
 void repeat()
 {
     while (true) {
@@ -51,7 +49,7 @@ void repeat()
                     }
                 }
                 if (!found) {
-                    cout << "Account not found.\n";
+                    cout << "Not found.\n";
                 }
                 else if (!accounts[accNum].auth(pin)) {
                     cout << "Wrong PIN\n";
@@ -77,7 +75,7 @@ void repeat()
                     }
                 }
                 if (!found) {
-                    cout << "Account not found.\n";
+                    cout << "Not found.\n";
                 }
                 else if (!accounts[accNum].auth(pin)) {
                     cout << "Wrong PIN\n";
@@ -103,7 +101,7 @@ void repeat()
                     }
                 }
                 if (!found) {
-                    cout << "Account not found.\n";
+                    cout << "Not found.\n";
                 }
                 else if (!accounts[accNum].auth(pin)) {
                     cout << "Wrong PIN\n";
