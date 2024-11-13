@@ -1,0 +1,29 @@
+# Ignore build files
+/cmake-build-*/  # Ignores CLion's build directories
+build/           # Ignore build folder if you create one
+cmake-build-debug/
+
+# Ignore CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore executables and object files
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dll
+
+# Ignore CLion and IDE-specific files
+.idea/            # CLion IDE folder
+*.iml             # IntelliJ project files
+
+# Ignore system files
+.DS_Store         # macOS Finder file
+Thumbs.db         # Windows thumbnail cache
+
+# Ignore Git metadata and logs
+.git/
