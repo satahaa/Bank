@@ -1,0 +1,12 @@
+# ninja log v6
+1	325	7532231404710807	CMakeFiles/Bank.dir/main.cpp.obj	db78fcacf527a674
+8	261	7532231893657205	CMakeFiles/Bank.dir/acc.cpp.obj	9d19c273d0ffa07e
+2	255	7532233955484866	CMakeFiles/Bank.dir/acc.cpp.obj	9d19c273d0ffa07e
+255	310	7532233958010227	Bank.exe	1a1b155f6b4ab4ba
+9	302	7532234160858094	CMakeFiles/Bank.dir/main.cpp.obj	db78fcacf527a674
+302	356	7532234163792636	Bank.exe	1a1b155f6b4ab4ba
+11	295	7532241144379974	CMakeFiles/Bank.dir/acc.cpp.obj	9d19c273d0ffa07e
+9	350	7532241144359969	CMakeFiles/Bank.dir/main.cpp.obj	db78fcacf527a674
+350	406	7532241147779975	Bank.exe	1a1b155f6b4ab4ba
+8	306	7532244052967405	CMakeFiles/Bank.dir/main.cpp.obj	db78fcacf527a674
+306	361	7532244055947039	Bank.exe	1a1b155f6b4ab4ba
